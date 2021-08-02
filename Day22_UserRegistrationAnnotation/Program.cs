@@ -44,9 +44,7 @@ namespace Day22_UserRegistrationAnnotation
                     Console.WriteLine("Error Msg : {0}{1}", TotalResult.ErrorMessage, Environment.NewLine);
                 }
             }
-
             Console.ReadKey();
-
         }
     }
 }

@@ -45,4 +45,5 @@ namespace Day22_UserRegistrationAnnotation
         [DataType(DataType.Password)]
         public string password { get; set; }
     }
+
 }
